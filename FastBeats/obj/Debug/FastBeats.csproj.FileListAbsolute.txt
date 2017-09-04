@@ -1,0 +1,1368 @@
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\bin\Debug\MetroFramework.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\3ainfo\Desktop\FastBeats\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\3ainfo\Desktop\FastBeats\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo\Desktop\FastBeats\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\3ainfo\Desktop\FastBeats\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\3ainfo\Desktop\FastBeats\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\3ainfo\Desktop\FastBeats\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\bin\Debug\MetroFramework.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 2\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\bin\Debug\MetroFramework.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 3\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\3ainfo\Desktop\FastBeats 3\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\3ainfo\Desktop\FastBeats 3\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 3\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 3\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 3\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 3\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo\Desktop\FastBeats 3\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\3ainfo\Desktop\FastBeats 3\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\3ainfo\Desktop\FastBeats 3\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 3\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 3\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\3ainfo\Desktop\FastBeats 3\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\3ainfo\Desktop\FastBeats 4\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\3ainfo\Desktop\FastBeats 4\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 4\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 4\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 4\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo\Desktop\FastBeats 4\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\3ainfo\Desktop\FastBeats 4\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\3ainfo\Desktop\FastBeats 4\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 4\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 4\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\3ainfo\Desktop\FastBeats 4\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\3ainfo\Desktop\FastBeats 4\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\bin\Debug\MetroFramework.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 4\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\bin\Debug\MetroFramework.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 5\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\bin\Debug\MetroFramework.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 6\FastBeats\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\bin\Debug\MetroFramework.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 7\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\3ainfo\Desktop\FastBeats 7\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\bin\Debug\MetroFramework.Design.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\bin\Debug\MetroFramework.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\TCC\FastBeats 8\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\3ainfo\Desktop\FastBeats_8-2015-10-20\FastBeats 8\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Ana\Desktop\FastBeats 9\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 10\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 11\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 11\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 12\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 14\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 15\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 15\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 15\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 15\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 16\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\3ainfo\Desktop\FastBeats 17\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Ana\Downloads\FastBeats_17-2015-11-08\FastBeats 17\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 18\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 18\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Ana\Downloads\FastBeats_18-2015-11-10\FastBeats 18\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 18 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Ana\Downloads\FastBeats_19-2015-11-11\FastBeats 19\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\3ainfo\Desktop\FastBeats 19 - Ajustes\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\3ainfo\Desktop\FastBeats 20\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 21\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 21\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 22\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 22\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 22\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 23\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 24\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 25\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 26\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\3ainfo\Desktop\FastBeats 27\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 28\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 29\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\3ainfo\Desktop\FastBeats 29\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 30\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 31\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 32\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 33\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 33\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 33\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\3ainfo\Desktop\FastBeats 33\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmControleCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 34\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 35\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 35\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Sistema\FastBeats 35\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 35\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 36\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 37\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 38\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Tudo do not no dia da apresentação\FastBeats 38 - Copia\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Tudo do not no dia da apresentação\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\ETEC INF 3ºA\Fast Coding\TCC\Tudo do not no dia da apresentação\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Desktop\FastBeats 38 - Copia\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\bin\Debug\FastBeats.exe.config
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\bin\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\bin\Debug\FastBeats.pdb
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.csprojResolveAssemblyReference.cache
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmAgenda.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmCaixa.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmCardapio.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmClientes.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmComanda.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConfig.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConsultarAgenda.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConsultarArtistas.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConsultarCardapio.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConsultarCliente.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConsultarFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmConsultarProdutos.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmFormaPagamento.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmFuncionario.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmGenero.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmLogin.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmMenuPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmPagamento.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.frmPrincipal.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.Properties.Resources.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmProdutos.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmRecepcao.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmRecuperarSenha.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmRelatorios.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmSobre.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.frmSplash.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.View.frmVenda.resources
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.csproj.GenerateResource.Cache
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.exe
+C:\Users\Vitor\Google Drive\Escola\2015\ETEC INF 3ºA\TCC\Software\FastBeats - vitor dps do curso\FastBeats\obj\Debug\FastBeats.pdb
